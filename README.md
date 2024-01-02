@@ -20,6 +20,15 @@ Você deve criar uma API RESTful usando o Laminas API Tools que permita aos usu�
 
 7. **Versionamento no GitHub**: Você deve versionar seu código no GitHub. Queremos que você versione partes por partes, do início ao fim, para que possamos analisar o relatório de commits.
 
+## Habilidades e Competências Avaliadas
+
+1. **Compreensão e Implementação de APIs RESTful**
+2. **Manipulação de Banco de Dados**
+3. **Autenticação**
+4. **Documentação**
+5. **Versionamento de Código**
+6. **Resolução de Problemas e Pensamento Crítico**
+
 ## Entrega
 
 Por favor, forneça o código-fonte do seu projeto, instruções para configuração e uso, e quaisquer outras informações que você considere relevantes.

@@ -1,4 +1,4 @@
-# Teste de Desenvolvimento Pleno - Laminas API Tools
+# Teste de Desenvolvimento Pleno/Sênior - Laminas API Tools
 
 ## Descrição do Projeto
 
